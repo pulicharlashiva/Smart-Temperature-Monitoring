@@ -16,4 +16,4 @@ Sensor reads temperature → Arduino processes → LCD displays values.
 3. Power ON the board.
 
 ## Project Report
-Above attached the project report
+The detailed project report is attched to Repository.
