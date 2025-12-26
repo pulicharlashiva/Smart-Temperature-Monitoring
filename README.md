@@ -3,7 +3,7 @@ This project monitors temperature using Arduino Uno and displays output on LCD.
 
 ## Components Used
 - Arduino Uno
-- Temperature Sensor 
+- Temperature Sensor and potentiometer 
 - Resistor, Wires
 - LCD Display
 
